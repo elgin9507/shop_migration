@@ -1,0 +1,15 @@
+certifi==2021.5.30
+chardet==4.0.0
+future==0.18.2
+idna==2.10
+pkg-resources==0.0.0
+prestapyt==0.10.0
+pyactiveresource==2.2.2
+PyJWT==2.1.0
+python-dotenv==0.17.1
+PyYAML==5.4.1
+requests==2.25.1
+ShopifyAPI==8.4.1
+six==1.16.0
+termcolor==1.1.0
+urllib3==1.26.5
